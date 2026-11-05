@@ -173,4 +173,4 @@ A demo store with fictional data, captured on a local environment. More details 
 
 ---
 
-*The product source code is private. This repository is a case study only.*
+*This repository is a case study and contains no product code. The product source code is available at [EnriqueMartinez26/shifty](https://github.com/EnriqueMartinez26/shifty).*

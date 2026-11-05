@@ -140,7 +140,28 @@ Before launch, the product went through **2 audits** that produced **370+ findin
 
 ## Screenshots
 
-Screenshots are coming soon. See [`/screenshots`](./screenshots).
+A demo store with fictional data, captured on a local environment. More details in [`/screenshots`](./screenshots).
+
+**Branded booking page**
+
+![Booking page on desktop](screenshots/01-booking-page.png)
+
+**Booking flow on mobile:** booking page, picking a time, deposit over WhatsApp, and the pending-payment screen with its deadline.
+
+<p>
+  <img src="screenshots/02-booking-page-mobile.png" alt="Booking page on mobile" width="200">
+  <img src="screenshots/03-pick-time.png" alt="Picking a professional and a time" width="200">
+  <img src="screenshots/04-deposit-whatsapp.png" alt="Booking summary with the deposit over WhatsApp" width="200">
+  <img src="screenshots/05-booking-confirmed.png" alt="Booking pending payment with the deposit deadline" width="200">
+</p>
+
+**Owner panel: agenda**
+
+![Owner panel agenda, week view](screenshots/06-owner-agenda.png)
+
+**Owner panel: branding settings**
+
+![Settings with logo, brand color and cover](screenshots/07-settings-branding.png)
 
 ## Tech stack
 
